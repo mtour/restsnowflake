@@ -1,0 +1,6 @@
+src/github.com/*
+.idea/*
+.gvm_local/*
+*.iml
+*.tmp
+src/restsnowflake/restsnowflake
