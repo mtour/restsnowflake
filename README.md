@@ -3,9 +3,10 @@ restapi to get autoincrease id  (twitter snowflake)
 
 # get id request
 ```
-http://localhost:8080/snowflake/getid/22
-
+http://localhost:8080/snowflake/getid/[worker_id]
+worker_id 取值范围 0~1023
 ```
+
 return data
 ```
 {
